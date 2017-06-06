@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496776737 source:c:\users\crimson\documents\projekty\dzielniki\dzielniki\main.cpp
+	<cstdlib>
+	<iostream>
+	<conio.h>
+
